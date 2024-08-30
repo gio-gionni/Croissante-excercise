@@ -1,0 +1,23 @@
+body {
+  background-color: cornsilk;
+  text-align: center;
+}
+
+a {
+  color: chocolate;
+  padding: 20px;
+}
+
+.pages-list {
+  display: flex;
+  justify-content: center;
+}
+
+.croissant-pic {
+  display: block;
+  margin: 0 auto;
+  max-width: 600px;
+}
+.email {
+  padding: 0;
+}
